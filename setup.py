@@ -10,7 +10,7 @@ with open("README.md", "r", encoding='UTF-8') as fh:
     long_description = fh.read()
 
 setup(
-    name='pykrxtor',
+    name='pykrx',
     version=__version__,
     description='KRX data scraping',
     url='https://github.com/wangtae/pykrxtor',
